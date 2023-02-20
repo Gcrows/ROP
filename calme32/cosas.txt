@@ -1,9 +1,0 @@
-0x80484f0 -> callme_one
-0x080487f9 -> gadget to pop
-(0xdeadbeef, 0xcafebabe, 0xd00df00d) -> parameters
-0x8048550 -> callme_two
-0x080487f9 -> gadget to pop
-(0xdeadbeef, 0xcafebabe, 0xd00df00d) -> parameters
-0x80484e0 -> callme_three
-0x080487f9 -> gadget to pop
-(0xdeadbeef, 0xcafebabe, 0xd00df00d) -> parameters
